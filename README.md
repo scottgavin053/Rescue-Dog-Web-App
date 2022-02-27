@@ -1,5 +1,4 @@
 # Rescue-Dog-Web-App
-## About the Project
 ### Animal Shelter
 The customer, Grazioso Salvare, wants a system that can help organize the many dogs that may be good candidates for rescue training.
 ## Motivation
